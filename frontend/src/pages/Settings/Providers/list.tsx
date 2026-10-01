@@ -461,6 +461,11 @@ export const ProviderList: Readonly<ProviderInfo[]> = [
     description: "Romanian Subtitles Provider",
   },
   {
+    key: "slopodnapisi",
+    name: "Slo-Podnapisi",
+    description: "Slovenian Subtitles Provider. No need for login or cookies.",
+  },
+  {
     key: "soustitreseu",
     name: "Sous-Titres.eu",
     description: "Mostly French Subtitles Provider",
